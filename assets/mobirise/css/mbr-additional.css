@@ -2304,36 +2304,24 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rheCeit1wC {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-rmeSz3he7U {
+  background-image: url("../../../assets/images/background3.jpg");
 }
-.cid-rheCeit1wC .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#ff7f9f, #55b4d4);
-  border: none;
+.cid-rmeSz3he7U h1 {
+  color: #616161;
 }
-.cid-rheCeit1wC .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-rmeSz3he7U h2,
+.cid-rmeSz3he7U h3,
+.cid-rmeSz3he7U p {
+  color: #767676;
 }
-@media (min-width: 768px) {
-  .cid-rheCeit1wC .content-container {
-    padding-right: 5rem;
-  }
+.cid-rmeSz3he7U .mbr-section-subtitle {
+  font-style: italic;
 }
-.cid-rheCeit1wC .mbr-text,
-.cid-rheCeit1wC .mbr-section-btn {
-  text-align: center;
+.cid-rmeSz3he7U H3 {
   color: #232323;
 }
-.cid-rheCeit1wC H1 {
-  color: #ff3366;
-}
-.cid-rheDalqvDO {
+.cid-rmf4amsNB4 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -3131,24 +3119,36 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rmeSz3he7U {
-  background-image: url("../../../assets/images/background3.jpg");
+.cid-rheCeit1wC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rmeSz3he7U h1 {
-  color: #616161;
+.cid-rheCeit1wC .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+  background: linear-gradient(#ff7f9f, #55b4d4);
+  border: none;
 }
-.cid-rmeSz3he7U h2,
-.cid-rmeSz3he7U h3,
-.cid-rmeSz3he7U p {
-  color: #767676;
+.cid-rheCeit1wC .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-rmeSz3he7U .mbr-section-subtitle {
-  font-style: italic;
+@media (min-width: 768px) {
+  .cid-rheCeit1wC .content-container {
+    padding-right: 5rem;
+  }
 }
-.cid-rmeSz3he7U H3 {
+.cid-rheCeit1wC .mbr-text,
+.cid-rheCeit1wC .mbr-section-btn {
+  text-align: center;
   color: #232323;
 }
-.cid-rmf4amsNB4 {
+.cid-rheCeit1wC H1 {
+  color: #ff3366;
+}
+.cid-rheDalqvDO {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
